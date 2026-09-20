@@ -1,0 +1,81 @@
+{
+  "updated_at": "2026-09-20T10:38:54.147296",
+  "max_hours": 48,
+  "total_streams": 5,
+  "total_matches": 10,
+  "leagues": {
+    "ENGLISH PREMIER LEAGUE": 5
+  },
+  "matches": [
+    {
+      "name": "0 0 0 0 0 0 ASIAN GAMES WOMEN 11:00 20/09 TRỰC TIẾP LÝ LÊN LỬA Trung Quốc Women 0 : 0 Việt Nam Women",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "live",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": true
+    },
+    {
+      "name": "OCA ASIAN GAMES Sắp diễn ra 14:00 20/09 Hong Kong U23 0 : 0 Thailand U23 HT 0 - 0 0 - 0 0 - 0 LÝ LÊN",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "OCA ASIAN GAMES Sắp diễn ra 17:00 20/09 North Korea U23 0 : 0 United Arab Emirates U23 HT 0 - 0 0 - ",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "ASIAN GAMES WOMEN Sắp diễn ra 17:20 20/09 Nhật Bản Nữ 0 : 0 Đài Loan TQ Nữ HT 0 - 0 0 - 0 0 - 0 LÝ L",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "ITALIAN SERIE A Sắp diễn ra 17:30 20/09 Fiorentina 0 : 0 Napoli HT 0 - 0 0 - 0 0 - 0 LÝ LONG",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "VIETNAM NATIONAL CHAMPION LEAGUE Sắp diễn ra 18:00 20/09 Truong Tuoi Dong Nai 0 : 0 Cong An Ha Noi F",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "VIETNAM NATIONAL CUP Sắp diễn ra 19:15 20/09 Hanoi FC 0 : 0 SHB Da Nang HT 0 - 0 0 - 0 0 - 0 LÝ LIỀU",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "ENGLISH PREMIER LEAGUE Sắp diễn ra 20:00 20/09 Manchester City 0 : 0 Sunderland HT 0 - 0 0 - 0 0 - 0",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "ENGLISH PREMIER LEAGUE Sắp diễn ra 20:00 20/09 Leeds United 0 : 0 Crystal Palace HT 0 - 0 0 - 0 0 - ",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    },
+    {
+      "name": "ENGLISH PREMIER LEAGUE Sắp diễn ra 20:00 20/09 Bournemouth AFC 0 : 0 Liverpool HT 0 - 0 0 - 0 0 - 0 ",
+      "league": "ENGLISH PREMIER LEAGUE",
+      "status": "upcoming",
+      "start_time": "2026-09-20T11:00:00",
+      "has_stream": false
+    }
+  ]
+}
